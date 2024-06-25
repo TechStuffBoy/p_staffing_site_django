@@ -3,7 +3,7 @@ A complete website for a staffing company (powered by Django) - Manage employees
 
 # Technical Details
 **Environment**: Python, PostGre SQL, Django, HTML, CSS, Javascript <br>
-**Deployment**: Heroku
+**Deployment**: AWS
 
 # Features
   - **Manage Employees, Staffs, Admins**
@@ -19,5 +19,5 @@ A complete website for a staffing company (powered by Django) - Manage employees
       - On submission, email will be triggered to Team and visitor also gets an acknowledgemet via email
 
 # Live 
-https://ntekglobal.herokuapp.com/
+https://ntekglobal.com/
 
