@@ -3,7 +3,6 @@ A complete website for a staffing company (powered by Django) - Manage employees
 
 # Technical Details
 **Environment**: Python, PostGre SQL, Django, HTML, CSS, Javascript <br>
-**Deployment**: AWS
 
 # Features
   - **Manage Employees, Staffs, Admins**
